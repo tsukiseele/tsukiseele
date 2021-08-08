@@ -3,5 +3,5 @@ ACG爱好者
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=tsukiseele&theme=vue&&show_icons=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsukiseele&theme=vue" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsukiseele&theme=vue" />
 </div>
