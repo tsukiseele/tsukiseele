@@ -1,4 +1,3 @@
-![AmashiroNatsuki](https://cdn.jsdelivr.net/gh/tsukiseele/ImageHosting/img/amsrntk3.png)
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@tsukiseele?theme=rule34"></a>
 <div style="display: flex; flex-wrap: nowrap;">
   <a href="https://github.com/tsukiseele" align="right">
