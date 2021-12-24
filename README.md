@@ -23,7 +23,7 @@
 
 [![](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)](https://www.mariadb.com/)
 [![](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.com/)
-[![](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white)](https://npmjs.com/)
+[![](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white)](https://nginx.org/)
 [![](https://img.shields.io/badge/-Shell-FCC624?style=flat-square&logo=linux&logoColor=white)](https://www.sqlite.com/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 #### Most Used Languages
