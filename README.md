@@ -18,7 +18,6 @@
 [![](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)](https://nuxtjs.org/)
 [![](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=ffffff)](https://www.electronjs.org/)
 [![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/)
-[![](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)](https://spring.io/)
 [![](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://developer.android.com/)
 
 [![](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)](https://www.mariadb.com/)
