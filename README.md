@@ -9,7 +9,7 @@
 [![](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![](https://img.shields.io/badge/-Android%20Studio%20-3DDC84?style=flat-square&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 
-[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](https://openjdk.java.net/)
+[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)](https://openjdk.java.net/)
 [![](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
