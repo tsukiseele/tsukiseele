@@ -1,7 +1,7 @@
 #### Hi there 👋
 
 ![counter](https://count.getloli.com/get/@tsukiseele?theme=rule34)
-#### Platform&Tools
+#### Platform & Tools
 [![](https://img.shields.io/badge/OS-Windows%2011-2376bc?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows/get-windows-11)
 [![](https://img.shields.io/badge/OS-Manjaro%20KDE-3E883C?style=flat-square&logo=manjaro&logoColor=white)](https://manjaro.org/)
 
