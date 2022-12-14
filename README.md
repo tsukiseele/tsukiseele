@@ -30,5 +30,5 @@
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 #### Most Used Languages
 ![counter](https://github-readme-stats.vercel.app/api/top-langs/?username=tsukiseele&theme=vue&layout=compact&langs_count=6&hide_title=true)
-#### Github Stats
-![counter](https://github-readme-stats.vercel.app/api?username=tsukiseele&theme=vue&show_icons=true&include_all_commits=true&hide_title=true)
+<!--- #### Github Stats --->
+<!--- ![counter](https://github-readme-stats.vercel.app/api?username=tsukiseele&theme=vue&show_icons=true&include_all_commits=true&hide_title=true) --->
