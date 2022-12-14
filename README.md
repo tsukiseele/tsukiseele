@@ -1,7 +1,5 @@
-#### Hi there 👋
-
-![counter](https://count.getloli.com/get/@tsukiseele?theme=rule34)
-#### Familiar tools
+### Hi there 👋
+#### tsukiseele's Familiar tools
 [![](https://img.shields.io/badge/OS-Windows%2011-2376bc?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows/get-windows-11)
 [![](https://img.shields.io/badge/OS-Manjaro%20KDE-3E883C?style=flat-square&logo=manjaro&logoColor=white)](https://manjaro.org/)
 
@@ -28,7 +26,11 @@
 [![](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white)](https://nginx.org/)
 [![](https://img.shields.io/badge/-Shell-FCC624?style=flat-square&logo=linux&logoColor=white)](https://www.sqlite.com/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+
 #### Most Used Languages
 ![counter](https://github-readme-stats.vercel.app/api/top-langs/?username=tsukiseele&theme=vue&layout=compact&langs_count=6&hide_title=true)
 <!--- #### Github Stats --->
 <!--- ![counter](https://github-readme-stats.vercel.app/api?username=tsukiseele&theme=vue&show_icons=true&include_all_commits=true&hide_title=true) --->
+
+#### Nyaa Counter
+![counter](https://count.getloli.com/get/@tsukiseele?theme=rule34)
