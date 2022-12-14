@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### tsukiseele's Familiar tools
+#### Familiar Tools
 [![](https://img.shields.io/badge/OS-Windows%2011-2376bc?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows/get-windows-11)
 [![](https://img.shields.io/badge/OS-Manjaro%20KDE-3E883C?style=flat-square&logo=manjaro&logoColor=white)](https://manjaro.org/)
 
@@ -32,5 +32,5 @@
 <!--- #### Github Stats --->
 <!--- ![counter](https://github-readme-stats.vercel.app/api?username=tsukiseele&theme=vue&show_icons=true&include_all_commits=true&hide_title=true) --->
 
-#### Nyaa Counter
+#### tsukiseele's Nyaa Counter
 ![counter](https://count.getloli.com/get/@tsukiseele?theme=rule34)
