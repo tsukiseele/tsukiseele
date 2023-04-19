@@ -2,7 +2,7 @@
 
 一名喜欢ACG的~~开发者~~（hentai），来自幻想乡。 
 
-最喜欢的语言是Kotlin。喜欢可爱的事物，百合控。
+最喜欢的语言是Kotlin。
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/OS-Windows%2011-2376bc?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows/get-windows-11)
