@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-一名来自幻想乡的开发者。 
-
-最喜欢的语言是Kotlin。
+自由、创造、灵感、艺术
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/OS-Windows%2011-2376bc?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows/get-windows-11)
