@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-自由、创造、灵感、艺术、萌即正义
+自由、创造、灵感、艺术、可爱即正义
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/OS-Windows%2011-2376bc?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows/get-windows-11)
