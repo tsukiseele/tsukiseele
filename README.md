@@ -3,7 +3,7 @@
 自由、创造、灵感、艺术、可爱即正义
 
 #### Platform&Tools
-[![](https://img.shields.io/badge/OS-Windows%2011-2376bc?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows/get-windows-11)
+[![](https://img.shields.io/badge/OS-Windows%2010-2376bc?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/OS-Manjaro%20KDE-3E883C?style=flat-square&logo=manjaro&logoColor=white)](https://manjaro.org/)
 
 [![](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
